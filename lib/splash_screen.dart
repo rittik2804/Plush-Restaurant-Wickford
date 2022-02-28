@@ -55,7 +55,7 @@ class _splash_screenState extends State<splash_screen> {
             child: Container(
                 decoration: BoxDecoration(
                     image: DecorationImage(
-                        image: AssetImage('assets/logo-large.png'),
+                        image: AssetImage('assets/logo.jpg'),
                         scale: 3,
                         alignment: Alignment.center))),
           )),
